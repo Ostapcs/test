@@ -1,0 +1,7 @@
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/CMakeFiles/Set.dir
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/lib/googletest-master/googletest/CMakeFiles/rebuild_cache.dir
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/lib/googletest-master/googletest/CMakeFiles/edit_cache.dir
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/lib/googletest-master/googletest/CMakeFiles/gtest_main.dir
+/Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug/lib/googletest-master/googletest/CMakeFiles/gtest.dir

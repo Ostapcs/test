@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/ostapkutyanskij/CLionProjects/Set
+-- Found PythonInterp: /Library/Frameworks/Python.framework/Versions/2.7/bin/python (found version "2.7.13") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ostapkutyanskij/CLionProjects/Set/cmake-build-debug
